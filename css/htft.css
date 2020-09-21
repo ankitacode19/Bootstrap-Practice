@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 0;
+  padding: 10;
 }
 
 nav {
@@ -9,6 +9,10 @@ nav {
 .nav-link {
   color: #b7c9cc !important;
   font-size: 14px !important;
-  font-weight: 600;
-  font-family: OpenSans, Arial, Helvetica, sans-serif;
+  font-weight: 550;
+  font-family: OpenSans, Arial, Helvetica, sans-serif !important;
+  transition-delay: 0.01s;
+}
+.nav-link:hover {
+  color: #ffffff !important;
 }
