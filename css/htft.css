@@ -13,6 +13,7 @@ nav {
   font-family: OpenSans, Arial, Helvetica, sans-serif !important;
   transition-delay: 0.01s;
 }
+
 .nav-link:hover {
   color: #ffffff !important;
 }
